@@ -9,4 +9,4 @@ Searching for logic needed to make your app work often takes __A Lot__ of googli
 * Any user that attempts to login without an email and password is redirected to the login page
 * Once logged in the user can select a category and search
 
-# [Go to Snippets!](https://morning-harbor-79094.herokuapp.com/)
+### [Go to Snippets!](https://morning-harbor-79094.herokuapp.com/)
