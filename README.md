@@ -25,12 +25,12 @@ Searching for logic needed to make your app work often takes __A Lot__ of googli
 * Express
 
 ## Future Developments
-1. Tie logged in user to Snippets
+*1.* Tie logged in user to Snippets
 2. Personalized view
-Allow users to create and delete their own categories.
-Importing/Exporting
-Implement Dark Mode.
-Add color to code snippets for better readability.
+3. Allow users to create and delete their own categories.
+4. Importing/Exporting
+5. Implement Dark Mode.
+6. Add color to code snippets for better readability.
 
 
 
