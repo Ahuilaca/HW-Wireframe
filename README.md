@@ -7,11 +7,11 @@ Searching for logic needed to make your app work often takes __A Lot__ of googli
 
 
 ## Features
-A login and sign up page that requires email and password authentication &nbsp;
+A login and sign up page that requires email and password authentication
 ![Image of signin](imgs/Screenshot_login.png)&nbsp;
 
 Once logged in the user can select a category and search for code
-![Image of signin](imgs/Screenshot_search.png)
+![Image of signin](imgs/Screenshot_search.png)&nbsp;
 
 User can search for code by category
 
