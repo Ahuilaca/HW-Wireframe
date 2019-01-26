@@ -13,7 +13,7 @@ Searching for logic needed to make your app work often takes __A Lot__ of googli
 * User can search for code by category
 
 ## New modules we learned:
-* prettify
+* [Prettify] (https://www.npmjs.com/package/prettify)
 * passport
 * bCrypt
 * body-parser
@@ -27,12 +27,6 @@ Searching for logic needed to make your app work often takes __A Lot__ of googli
 Implementation:
 Login functionality, FE page structure, HTML/API routing, FE design/styling, CRUD functionality.
 Process: Github Projects, Slack conversations, and digital partner programming
-
-
-
-
-
-
 
 #### [Go to Snippets!](https://morning-harbor-79094.herokuapp.com/)
 
