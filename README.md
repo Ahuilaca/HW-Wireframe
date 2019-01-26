@@ -14,4 +14,3 @@ Searching for logic needed to make your app work often takes __A Lot__ of googli
 
 
 #### [Go to Snippets!](https://morning-harbor-79094.herokuapp.com/)
-
