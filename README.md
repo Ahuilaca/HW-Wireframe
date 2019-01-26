@@ -4,7 +4,7 @@ Snippets makes it easier to organize and save blocks of code for later use.
 ## Basic Overview
 Searching for logic needed to make your app work often takes __A Lot__ of googling and review of hundreds of lines of code. Snippets is a place where you can select a category (i.e., HTML, CSS, Javascript, Sequelize) and save code or links that can be stored for later reference.
 
-[Home Page] (http://localhost:3000/home)
+![Home Page] (http://localhost:3000/home)
 
 ## Features
 * A login and sign up page that requires email and password authentication
