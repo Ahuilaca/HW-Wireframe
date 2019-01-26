@@ -14,9 +14,9 @@ Searching for logic needed to make your app work often takes __A Lot__ of googli
 
 ## New modules we learned:
 * [Prettify](https://www.npmjs.com/package/prettify)
-* passport
-* bCrypt
-* body-parser
+* [Passport](https://www.npmjs.com/package/passport)
+* [bCrypt](https://www.npmjs.com/package/bcrypt)
+* [body-parser](https://www.npmjs.com/package/body-parser)
 
 ## Areas we improved in:
 * Sequelize
