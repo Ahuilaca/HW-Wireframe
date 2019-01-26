@@ -7,12 +7,13 @@ Searching for logic needed to make your app work often takes __A Lot__ of googli
 
 
 ## Features
-* A login and sign up page that requires email and password authentication
-![Image of singin](imgs/Screenshot_login.png)
+A login and sign up page that requires email and password authentication
+![Image of signin](imgs/Screenshot_login.png)
 
-* Any user that attempts to login without an email and password is redirected to the login page
-* Once logged in the user can select a category and save working code
-* User can search for code by category
+Any user that attempts to login without an email and password is redirected to the login page
+
+Once logged in the user can select a category and save working code
+User can search for code by category
 
 ## New Modules we Learned:
 * [Prettier](https://www.npmjs.com/package/prettier)
