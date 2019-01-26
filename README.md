@@ -14,7 +14,7 @@ Once logged in the user can select a category and search for code or save a snip
 ![Image of signin](imgs/Screenshot_search.png)<br/><br/><br/>
 
 Users can create new snippets by entering a title, category, pasting the snippet, and adding a comment.
-[Image of signin](imgs/Screenshot_create.png)<br/><br/><br/>
+![Image of signin](imgs/Screenshot_create.png)<br/><br/><br/>
 
 ## New Modules we Learned:
 * [Prettier](https://www.npmjs.com/package/prettier)
