@@ -16,17 +16,13 @@ Searching for logic needed to make your app work often takes __A LOT__ of googli
 :boom: Users can create new snippets by entering a title, category, pasting the snippet, and adding a comment.<br/><br/>
 ![Image of signin](imgs/Screenshot_create.png)<br/><br/>
 
-## New Modules we Learned:
+
+## New Modules We Learned:
 * [Prettier](https://www.npmjs.com/package/prettier)
 * [Passport](https://www.npmjs.com/package/passport)
 * [bCrypt](https://www.npmjs.com/package/bcrypt)
 * [body-parser](https://www.npmjs.com/package/body-parser)
 
-## Areas we Improved in:
-* Sequelize
-* eslint
-* Handlebars
-* Express
 
 ## Future Developments
 * Tie logged in user to Snippets
