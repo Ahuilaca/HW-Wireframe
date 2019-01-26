@@ -2,7 +2,7 @@
 Snippets makes it easier to organize and save blocks of code for later use.
 
 
-## Basic Overview
+## Overview
 Searching for logic needed to make your app work often takes __A Lot__ of googling and review of hundreds of lines of code. Snippets is a place where you can select a category (i.e., HTML, CSS, Javascript, Sequelize) and save code or links that can be stored for later reference.
 
 
@@ -12,17 +12,26 @@ Searching for logic needed to make your app work often takes __A Lot__ of googli
 * Once logged in the user can select a category and save working code
 * User can search for code by category
 
-## New modules we learned:
+## New Modules we Learned:
 * [Prettify](https://www.npmjs.com/package/prettify)
 * [Passport](https://www.npmjs.com/package/passport)
 * [bCrypt](https://www.npmjs.com/package/bcrypt)
 * [body-parser](https://www.npmjs.com/package/body-parser)
 
-## Areas we improved in:
+## Areas we Improved in:
 * Sequelize
 * eslint
 * Handlebars
 * Express
+
+## Future Developments
+1. Tie logged in user to Snippets
+2. Personalized view
+Allow users to create and delete their own categories.
+Importing/Exporting
+Implement Dark Mode.
+Add color to code snippets for better readability.
+
 
 
 ### [Go to Snippets!](https://morning-harbor-79094.herokuapp.com/)
