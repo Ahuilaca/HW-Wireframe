@@ -13,7 +13,7 @@ Searching for logic needed to make your app work often takes __A Lot__ of googli
 * User can search for code by category
 
 ## New modules we learned:
-* [Prettify] (https://www.npmjs.com/package/prettify)
+* [Prettify](https://www.npmjs.com/package/prettify)
 * passport
 * bCrypt
 * body-parser
