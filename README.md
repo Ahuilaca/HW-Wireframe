@@ -7,7 +7,7 @@ Searching for logic needed to make your app work often takes __A LOT__ of googli
 
 
 ## Features
-A login and sign up page that requires email and password authentication.<br/><br/>
+:boom: A login and sign up page that requires email and password authentication.<br/><br/>
 ![Image of signin](imgs/Screenshot_login.png)<br/><br/><br/>
 
 Once logged in the user can select a category and search for code or save a snippet for later use.<br/><br/>
