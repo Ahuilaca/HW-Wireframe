@@ -24,9 +24,6 @@ Searching for logic needed to make your app work often takes __A Lot__ of googli
 * Handlebars
 * Express
 
-Implementation:
-Login functionality, FE page structure, HTML/API routing, FE design/styling, CRUD functionality.
-Process: Github Projects, Slack conversations, and digital partner programming
-
+## Visit our page!
 #### [Go to Snippets!](https://morning-harbor-79094.herokuapp.com/)
 
