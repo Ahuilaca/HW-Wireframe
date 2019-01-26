@@ -24,6 +24,6 @@ Searching for logic needed to make your app work often takes __A Lot__ of googli
 * Handlebars
 * Express
 
-## Visit our page!
-#### [Go to Snippets!](https://morning-harbor-79094.herokuapp.com/)
+
+### [Go to Snippets!](https://morning-harbor-79094.herokuapp.com/)
 
