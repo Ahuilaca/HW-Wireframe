@@ -25,7 +25,7 @@ Searching for logic needed to make your app work often takes __A Lot__ of googli
 * Express
 
 ## Future Developments
-*1.* Tie logged in user to Snippets
+_1._ Tie logged in user to Snippets
 2. Personalized view
 3. Allow users to create and delete their own categories.
 4. Importing/Exporting
