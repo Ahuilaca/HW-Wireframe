@@ -1,4 +1,4 @@
-![Image of signin](imgs/Snippetslogo.png)<br/><br/><br/>
+![Image of signin](imgs/Snippetslogo.png)<br/>
 Snippets makes it easier to organize and save blocks of code for later use.
 
 
