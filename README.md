@@ -26,7 +26,7 @@ Searching for logic needed to make your app work often takes __A Lot__ of googli
 
 ## Future Developments
 __1.__ Tie logged in user to Snippets
-2. Personalized view
+__2.__ Personalized view
 3. Allow users to create and delete their own categories.
 4. Importing/Exporting
 5. Implement Dark Mode.
