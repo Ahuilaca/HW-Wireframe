@@ -10,10 +10,10 @@ Searching for logic needed to make your app work often takes __A LOT__ of googli
 :boom: A login and sign up page that requires email and password authentication. A user cannot move forward without both a valid email and password.<br/><br/>
 ![Image of signin](imgs/Screenshot_login.png)<br/><br/><br/>
 
-:boom: Once logged in a user can select a category and search for code or save a snippet for later use. This is useful as we cannot always memorize code and recall it months later when we need it.<br/><br/>
+:boom: Users can select a category and search for code. This is useful as we often cannot memorize code and recall it months later when needed. New snippets are created by clickng on the New Snippet button<br/><br/>
 ![Image of signin](imgs/Screenshot_search.png)<br/><br/><br/>
 
-:boom: Users can create new snippets by clicking on the New Snippet button and entering a title, category, pasting the snippet, and adding a comment (optional) and clicking the create button.<br/><br/>
+:boom: To save a new snippet enter a title, category, paste or write a new snippet, add a comment (optional), and click the create button.<br/><br/>
 ![Image of signin](imgs/Screenshot_create.png)<br/><br/>
 
 
