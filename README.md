@@ -18,7 +18,7 @@ Searching for logic needed to make your app work often takes __A LOT__ of googli
 
 
 ## Modules:
-
+We used several new NPMs in this project including prettier to format our code, .
 * [Prettier](https://www.npmjs.com/package/prettier)
 * [Passport](https://www.npmjs.com/package/passport)
 * [bCrypt](https://www.npmjs.com/package/bcrypt)
