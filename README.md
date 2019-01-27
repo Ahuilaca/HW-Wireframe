@@ -25,14 +25,6 @@ We used several new NPMs in this project including Prettier to format our code, 
 * [Body-parser](https://www.npmjs.com/package/body-parser)
 
 
-## Future Developments
-* Tie logged in user to Snippets
-* Personalized view
-* Allow users to create and delete their own categories.
-* Importing/Exporting
-* Implement Dark Mode.
-
-
 ### [Go to Snippets!](https://morning-harbor-79094.herokuapp.com/)
 
 
