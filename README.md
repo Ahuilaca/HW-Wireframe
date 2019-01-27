@@ -1,5 +1,5 @@
 ![Image of signin](imgs/Snippetslogo.png)<br/>
-Snippets makes it easier to organize and save code for later use.
+Snippets makes it easy to organize and save code for later use.
 
 
 ## Overview
