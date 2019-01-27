@@ -22,7 +22,7 @@ We used several new NPMs in this project including Prettier to format our code, 
 * [Prettier](https://www.npmjs.com/package/prettier)
 * [Passport](https://www.npmjs.com/package/passport)
 * [bCrypt](https://www.npmjs.com/package/bcrypt)
-* [body-parser](https://www.npmjs.com/package/body-parser)
+* [Body-parser](https://www.npmjs.com/package/body-parser)
 
 
 ## Future Developments
