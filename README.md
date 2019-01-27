@@ -31,7 +31,6 @@ We used several new NPMs in this project including Prettier to format our code, 
 * Allow users to create and delete their own categories.
 * Importing/Exporting
 * Implement Dark Mode.
-* Add color to code snippets for better readability.
 
 
 ### [Go to Snippets!](https://morning-harbor-79094.herokuapp.com/)
