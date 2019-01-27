@@ -17,7 +17,8 @@ Searching for logic needed to make your app work often takes __A LOT__ of googli
 ![Image of signin](imgs/Screenshot_create.png)<br/><br/>
 
 
-## New Modules We Learned:
+## Modules:
+
 * [Prettier](https://www.npmjs.com/package/prettier)
 * [Passport](https://www.npmjs.com/package/passport)
 * [bCrypt](https://www.npmjs.com/package/bcrypt)
@@ -31,7 +32,6 @@ Searching for logic needed to make your app work often takes __A LOT__ of googli
 * Importing/Exporting
 * Implement Dark Mode.
 * Add color to code snippets for better readability.
-
 
 
 ### [Go to Snippets!](https://morning-harbor-79094.herokuapp.com/)
