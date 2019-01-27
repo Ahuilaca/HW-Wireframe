@@ -26,6 +26,7 @@ We used several new NPMs in this project including Prettier to format our code, 
 
 
 ## Future Developments
+Time permitting we would like to add these features:
 * Tie logged in user to Snippets
 * Personalized view
 * Allow users to create and delete their own categories.
